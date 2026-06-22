@@ -34,14 +34,6 @@
 
 ---
 
-## 🔭 Cosa sto facendo
-
-- 🧠 Studio algoritmi quantistici (Deutsch–Jozsa, QML) con **PennyLane** e **Qiskit**
-- 🔐 Mi interesso di **crittografia**, **network security** e **ethical hacking**
-- 📚 Laurea Magistrale in Cybersecurity @ Unical
-
----
-
 ## 📫 Contatti
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelbrunops365@gmail.com)
