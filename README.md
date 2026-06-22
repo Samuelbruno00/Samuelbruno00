@@ -1,10 +1,9 @@
 # 👋 Ciao, sono Samuel Bruno!
 
-### 🔐 Cybersecurity Engineer | Master's Student @ Unical
+### Master's Student @ Unical
 
 🎓 Laurea Magistrale in Ingegneria Informatica — Cybersecurity  
-🏛️ DIMES – Università della Calabria  
-⚡ Appassionato di sicurezza informatica, quantum computing e sviluppo software
+🏛️ DIMES – Università della Calabria
 
 ---
 
